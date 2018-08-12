@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumber", "PrimeNumber\PrimeNumber.csproj", "{3A53E58C-7769-4A51-89C7-8DEC68A62D3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakStop", "BreakStop\BreakStop.csproj", "{A84CC7E2-8575-4344-BBCB-7243CCA467A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafeCollection", "SafeCollection\SafeCollection.csproj", "{3FAD03DC-5FE6-43C8-B2B3-362F20A037ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongRandomNumber", "LongRandomNumber\LongRandomNumber.csproj", "{0C6114C2-24F2-487D-9B85-483DD1EE6A14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelLinq", "ParallelLinq\ParallelLinq.csproj", "{0C4020B6-11A9-4D43-A4E5-2C212A74F863}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixMultiply", "MatrixMultiply\MatrixMultiply.csproj", "{BD1834ED-D72F-4111-9097-6C4A81F254EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception", "Exception\Exception.csproj", "{EA957152-09EA-4EFE-A38C-F078C3D35E7D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例294  利用并行技术判断素数", "实例294  利用并行技术判断素数", "{93E12B55-100E-4180-87D5-75A6DA4551C2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例295  并行计算中的中断和跳出", "实例295  并行计算中的中断和跳出", "{DAD11F85-AA7F-45E9-A6DD-AA12773B69B1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例296  并行计算中的异常处理", "实例296  并行计算中的异常处理", "{0CA15D2A-6548-4EEE-97B0-F37014CE99C4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例297  并行计算中的安全集合", "实例297  并行计算中的安全集合", "{9EEE3A97-FB71-4FBE-B67A-F34FCB0214FE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例298  利用并行循环生成超长随机数", "实例298  利用并行循环生成超长随机数", "{8602A4A7-6933-49D0-89B1-94DA82C93B6C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例299  利用并行技术实现矩阵运算", "实例299  利用并行技术实现矩阵运算", "{68F142ED-DDB7-4D27-B1AA-EE1E08950BDD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "实例300  利用PLinq实现集合的并行化查询", "实例300  利用PLinq实现集合的并行化查询", "{E2B93ACC-6237-4B8C-97E3-23BF6D77543B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A53E58C-7769-4A51-89C7-8DEC68A62D3E}.Debug|x86.ActiveCfg = Debug|x86
+		{3A53E58C-7769-4A51-89C7-8DEC68A62D3E}.Debug|x86.Build.0 = Debug|x86
+		{3A53E58C-7769-4A51-89C7-8DEC68A62D3E}.Release|x86.ActiveCfg = Release|x86
+		{3A53E58C-7769-4A51-89C7-8DEC68A62D3E}.Release|x86.Build.0 = Release|x86
+		{A84CC7E2-8575-4344-BBCB-7243CCA467A9}.Debug|x86.ActiveCfg = Debug|x86
+		{A84CC7E2-8575-4344-BBCB-7243CCA467A9}.Debug|x86.Build.0 = Debug|x86
+		{A84CC7E2-8575-4344-BBCB-7243CCA467A9}.Release|x86.ActiveCfg = Release|x86
+		{A84CC7E2-8575-4344-BBCB-7243CCA467A9}.Release|x86.Build.0 = Release|x86
+		{3FAD03DC-5FE6-43C8-B2B3-362F20A037ED}.Debug|x86.ActiveCfg = Debug|x86
+		{3FAD03DC-5FE6-43C8-B2B3-362F20A037ED}.Debug|x86.Build.0 = Debug|x86
+		{3FAD03DC-5FE6-43C8-B2B3-362F20A037ED}.Release|x86.ActiveCfg = Release|x86
+		{3FAD03DC-5FE6-43C8-B2B3-362F20A037ED}.Release|x86.Build.0 = Release|x86
+		{0C6114C2-24F2-487D-9B85-483DD1EE6A14}.Debug|x86.ActiveCfg = Debug|x86
+		{0C6114C2-24F2-487D-9B85-483DD1EE6A14}.Debug|x86.Build.0 = Debug|x86
+		{0C6114C2-24F2-487D-9B85-483DD1EE6A14}.Release|x86.ActiveCfg = Release|x86
+		{0C6114C2-24F2-487D-9B85-483DD1EE6A14}.Release|x86.Build.0 = Release|x86
+		{0C4020B6-11A9-4D43-A4E5-2C212A74F863}.Debug|x86.ActiveCfg = Debug|x86
+		{0C4020B6-11A9-4D43-A4E5-2C212A74F863}.Debug|x86.Build.0 = Debug|x86
+		{0C4020B6-11A9-4D43-A4E5-2C212A74F863}.Release|x86.ActiveCfg = Release|x86
+		{0C4020B6-11A9-4D43-A4E5-2C212A74F863}.Release|x86.Build.0 = Release|x86
+		{BD1834ED-D72F-4111-9097-6C4A81F254EE}.Debug|x86.ActiveCfg = Debug|x86
+		{BD1834ED-D72F-4111-9097-6C4A81F254EE}.Debug|x86.Build.0 = Debug|x86
+		{BD1834ED-D72F-4111-9097-6C4A81F254EE}.Release|x86.ActiveCfg = Release|x86
+		{BD1834ED-D72F-4111-9097-6C4A81F254EE}.Release|x86.Build.0 = Release|x86
+		{EA957152-09EA-4EFE-A38C-F078C3D35E7D}.Debug|x86.ActiveCfg = Debug|x86
+		{EA957152-09EA-4EFE-A38C-F078C3D35E7D}.Debug|x86.Build.0 = Debug|x86
+		{EA957152-09EA-4EFE-A38C-F078C3D35E7D}.Release|x86.ActiveCfg = Release|x86
+		{EA957152-09EA-4EFE-A38C-F078C3D35E7D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3A53E58C-7769-4A51-89C7-8DEC68A62D3E} = {93E12B55-100E-4180-87D5-75A6DA4551C2}
+		{A84CC7E2-8575-4344-BBCB-7243CCA467A9} = {DAD11F85-AA7F-45E9-A6DD-AA12773B69B1}
+		{3FAD03DC-5FE6-43C8-B2B3-362F20A037ED} = {9EEE3A97-FB71-4FBE-B67A-F34FCB0214FE}
+		{0C6114C2-24F2-487D-9B85-483DD1EE6A14} = {8602A4A7-6933-49D0-89B1-94DA82C93B6C}
+		{0C4020B6-11A9-4D43-A4E5-2C212A74F863} = {E2B93ACC-6237-4B8C-97E3-23BF6D77543B}
+		{BD1834ED-D72F-4111-9097-6C4A81F254EE} = {68F142ED-DDB7-4D27-B1AA-EE1E08950BDD}
+		{EA957152-09EA-4EFE-A38C-F078C3D35E7D} = {0CA15D2A-6548-4EEE-97B0-F37014CE99C4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\Administrator\source\repos\C#程序设计经典300例源代码\第4篇  新技术篇\第29章  并行处理技术\ParallelLinq\bin\Debug\ParallelLinq.exe
+C:\Users\Administrator\source\repos\C#程序设计经典300例源代码\第4篇  新技术篇\第29章  并行处理技术\ParallelLinq\bin\Debug\ParallelLinq.pdb
+C:\Users\Administrator\source\repos\C#程序设计经典300例源代码\第4篇  新技术篇\第29章  并行处理技术\ParallelLinq\obj\x86\Debug\ParallelLinq.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\C#程序设计经典300例源代码\第4篇  新技术篇\第29章  并行处理技术\ParallelLinq\obj\x86\Debug\ParallelLinq.exe
+C:\Users\Administrator\source\repos\C#程序设计经典300例源代码\第4篇  新技术篇\第29章  并行处理技术\ParallelLinq\obj\x86\Debug\ParallelLinq.pdb
