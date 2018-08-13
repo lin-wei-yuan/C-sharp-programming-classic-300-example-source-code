@@ -11,14 +11,14 @@ namespace Builder
         static void Main(string[] args)
         {
             Console.Title = "建造不同的果园";
-//创建北京果园建造指导者
-OrchardDirector bjOrchardDirector = new OrchardDirector(new BJOrchardBuilder());
-Orchard bjOrchard = bjOrchardDirector.Construct();      //北京果园指导者建造北京果园
-bjOrchard.Plant();                                      //北京果园种植水果
-//创建上海果园建造指导者
-OrchardDirector shOrchardDirector = new OrchardDirector(new SHOrchardBuilder());
-Orchard shOrchard = shOrchardDirector.Construct();      //上海果园指导者建造上海果园
-shOrchard.Plant();                                      //上海果园种植水果
+            //创建北京果园建造指导者
+            OrchardDirector bjOrchardDirector = new OrchardDirector(new BJOrchardBuilder());
+            Orchard bjOrchard = bjOrchardDirector.Construct();      //北京果园指导者建造北京果园
+            bjOrchard.Plant();                                      //北京果园种植水果
+            //创建上海果园建造指导者
+            OrchardDirector shOrchardDirector = new OrchardDirector(new SHOrchardBuilder());
+            Orchard shOrchard = shOrchardDirector.Construct();      //上海果园指导者建造上海果园
+            shOrchard.Plant();                                      //上海果园种植水果
             Console.Read();
         }
 //果园
