@@ -11,11 +11,11 @@ namespace SimpleFactory
         static void Main(string[] args)
         {
             Console.Title = "果园种植水果";
-Orchard factory = new Orchard();                        //创建果园实例
-Fruit apple = factory.CreateFruit("Apple");                  //创建苹果实例
-apple.Plant();                                          //种植苹果
-Fruit orange = factory.CreateFruit("Orange");                //创建桔子实例
-orange.Plant();                                         //种植桔子
+            Orchard factory = new Orchard();                        //创建果园实例
+            Fruit apple = factory.CreateFruit("Apple");                  //创建苹果实例
+            apple.Plant();                                          //种植苹果
+            Fruit orange = factory.CreateFruit("Orange");                //创建桔子实例
+            orange.Plant();                                         //种植桔子
             Console.Read();
         }
     }
