@@ -11,15 +11,15 @@ namespace FactoryMethod
         static void Main(string[] args)
         {
             Console.Title = "果园引进新品种";
-Orchard appleOrchard = new AppleOrchard();              //创建苹果园实例
-Fruit apple = appleOrchard.CreateFruit();               //苹果园创建苹果实例
-apple.Plant();                                          //种植苹果
-Orchard orangeOrchard = new OrangeOrchard();            //创建桔子园实例
-Fruit orange = orangeOrchard.CreateFruit();             //桔子园创建桔子实例
-orange.Plant();                                         //种植桔子
-Orchard bananaOrchard = new BananaOrchard();            //创建香蕉园实例
-Fruit banana = bananaOrchard.CreateFruit();             //香蕉园创建香蕉实例
-banana.Plant();                                         //种植香蕉
+            Orchard appleOrchard = new AppleOrchard();              //创建苹果园实例
+            Fruit apple = appleOrchard.CreateFruit();               //苹果园创建苹果实例
+            apple.Plant();                                          //种植苹果
+            Orchard orangeOrchard = new OrangeOrchard();            //创建桔子园实例
+            Fruit orange = orangeOrchard.CreateFruit();             //桔子园创建桔子实例
+            orange.Plant();                                         //种植桔子
+            Orchard bananaOrchard = new BananaOrchard();            //创建香蕉园实例
+            Fruit banana = bananaOrchard.CreateFruit();             //香蕉园创建香蕉实例
+            banana.Plant();                                         //种植香蕉
 
             Console.Read();
         }
