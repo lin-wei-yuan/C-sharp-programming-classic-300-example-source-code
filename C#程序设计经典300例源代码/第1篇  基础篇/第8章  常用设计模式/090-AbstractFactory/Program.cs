@@ -11,16 +11,16 @@ namespace AbstractFactory
         static void Main(string[] args)
         {
             Console.Title = "开辟新的果园";
-Orchard bjFruitFactory = new BJOrchard();               //创建北京果园实例
-Apple bjApple = bjFruitFactory.CreateApple();           //北京果园创建北京苹果
-Orange bjOrange = bjFruitFactory.CreateOrange();        //北京果园创建北京桔子
-bjApple.PlantApple();                                   //北京果园种植北京苹果
-bjOrange.PlantOrange();                                 //北京果园种植北京桔子
-Orchard shFruitFactory = new SHOrchard();               //创建上海果园实例
-Apple shApple = shFruitFactory.CreateApple();           //上海果园创建上海苹果
-Orange shOrange = shFruitFactory.CreateOrange();        //上海果园创建上海桔子
-shApple.PlantApple();                                   //上海果园种植上海苹果
-shOrange.PlantOrange();                                 //上海果园种植上海桔子
+            Orchard bjFruitFactory = new BJOrchard();               //创建北京果园实例
+            Apple bjApple = bjFruitFactory.CreateApple();           //北京果园创建北京苹果
+            Orange bjOrange = bjFruitFactory.CreateOrange();        //北京果园创建北京桔子
+            bjApple.PlantApple();                                   //北京果园种植北京苹果
+            bjOrange.PlantOrange();                                 //北京果园种植北京桔子
+            Orchard shFruitFactory = new SHOrchard();               //创建上海果园实例
+            Apple shApple = shFruitFactory.CreateApple();           //上海果园创建上海苹果
+            Orange shOrange = shFruitFactory.CreateOrange();        //上海果园创建上海桔子
+            shApple.PlantApple();                                   //上海果园种植上海苹果
+            shOrange.PlantOrange();                                 //上海果园种植上海桔子
             Console.Read();
         }
     }
