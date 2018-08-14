@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter.csproj", "{FABC942F-0705-4281-B57C-DF901C2FF25A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FABC942F-0705-4281-B57C-DF901C2FF25A}.Debug|x86.ActiveCfg = Debug|x86
+		{FABC942F-0705-4281-B57C-DF901C2FF25A}.Debug|x86.Build.0 = Debug|x86
+		{FABC942F-0705-4281-B57C-DF901C2FF25A}.Release|x86.ActiveCfg = Release|x86
+		{FABC942F-0705-4281-B57C-DF901C2FF25A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {126B0C7D-7AAC-402F-8244-BD9D25EC4BD6}
+	EndGlobalSection
+EndGlobal
