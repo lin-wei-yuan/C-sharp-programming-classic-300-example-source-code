@@ -1,6 +1,0 @@
-C:\Users\Administrator\Documents\GitHub\C-sharp-programming-classic-300-example-source-code\C#程序设计经典300例源代码\第1篇  基础篇\第8章  常用设计模式\Visitor\bin\Debug\Visitor.exe
-C:\Users\Administrator\Documents\GitHub\C-sharp-programming-classic-300-example-source-code\C#程序设计经典300例源代码\第1篇  基础篇\第8章  常用设计模式\Visitor\bin\Debug\Visitor.pdb
-C:\Users\Administrator\Documents\GitHub\C-sharp-programming-classic-300-example-source-code\C#程序设计经典300例源代码\第1篇  基础篇\第8章  常用设计模式\Visitor\obj\x86\Debug\Visitor.csprojAssemblyReference.cache
-C:\Users\Administrator\Documents\GitHub\C-sharp-programming-classic-300-example-source-code\C#程序设计经典300例源代码\第1篇  基础篇\第8章  常用设计模式\Visitor\obj\x86\Debug\Visitor.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Documents\GitHub\C-sharp-programming-classic-300-example-source-code\C#程序设计经典300例源代码\第1篇  基础篇\第8章  常用设计模式\Visitor\obj\x86\Debug\Visitor.exe
-C:\Users\Administrator\Documents\GitHub\C-sharp-programming-classic-300-example-source-code\C#程序设计经典300例源代码\第1篇  基础篇\第8章  常用设计模式\Visitor\obj\x86\Debug\Visitor.pdb
