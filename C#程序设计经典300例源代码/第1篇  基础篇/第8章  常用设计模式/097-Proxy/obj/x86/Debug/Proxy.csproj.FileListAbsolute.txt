@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\GitHub\C-sharp-programming-classic-300-example-source-code\C#程序设计经典300例源代码\第1篇  基础篇\第8章  常用设计模式\097-Proxy\bin\Debug\Proxy.exe
+C:\Users\Administrator\Documents\GitHub\C-sharp-programming-classic-300-example-source-code\C#程序设计经典300例源代码\第1篇  基础篇\第8章  常用设计模式\097-Proxy\bin\Debug\Proxy.pdb
+C:\Users\Administrator\Documents\GitHub\C-sharp-programming-classic-300-example-source-code\C#程序设计经典300例源代码\第1篇  基础篇\第8章  常用设计模式\097-Proxy\obj\x86\Debug\Proxy.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\C-sharp-programming-classic-300-example-source-code\C#程序设计经典300例源代码\第1篇  基础篇\第8章  常用设计模式\097-Proxy\obj\x86\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\C-sharp-programming-classic-300-example-source-code\C#程序设计经典300例源代码\第1篇  基础篇\第8章  常用设计模式\097-Proxy\obj\x86\Debug\Proxy.exe
+C:\Users\Administrator\Documents\GitHub\C-sharp-programming-classic-300-example-source-code\C#程序设计经典300例源代码\第1篇  基础篇\第8章  常用设计模式\097-Proxy\obj\x86\Debug\Proxy.pdb
